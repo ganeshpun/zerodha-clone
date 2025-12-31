@@ -45,20 +45,4 @@ zerodha clone is a full-stack web application built with the **MERN stack** (Mon
 
 ---
 
-## **Project Structure**
-/ZERODHA-CLONE
-├─ backend/ # Express backend
-│ ├─ controllers/
-│ ├─ models/
-│ ├─ routes/
-│ └─ server.js
-├─ frontend/ # React frontend
-│ ├─ src/
-│ │ ├─ modules/
-│ │ │ ├─ auth/
-│ │ │ ├─ dashboard/
-│ │ │ └─ portfolio/
-│ │ ├─ shared/
-│ │ └─ App.js
-│ └─ package.json
-└─ README.md
+
